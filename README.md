@@ -1,1 +1,1 @@
-![Meu GIF Legal](assets/davi-britto.gif)
+![Meu GIF Legal](davi-britto.gif)
