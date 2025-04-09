@@ -1,4 +1,4 @@
-
+My Statistics:
 <table>
   <tr>
     <td>
