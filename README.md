@@ -7,3 +7,9 @@
       </td>
   </tr>
 </table><br/>
+<td align="center">
+      <!-- Substitua o URL pelo seu GIF -->
+      <img src="https://i.gifer.com/DD9.gif" width="400"/>
+    </td>
+  </tr>
+</table><br />
