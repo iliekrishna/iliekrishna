@@ -1,7 +1,7 @@
 # My Statistics:
 
 <div align="top">
-   
+  
   <table>
     <tr>
       <td>
@@ -16,6 +16,15 @@
   </table>
 </div>
  <div align="center">
+    <p align="center">
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width ="55"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = "65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width ="55" />
+
+          
+          
+</p>
 <br><p align="center"><b>Contador de Visitantes</b></p>  
      <img src="https://i.gifer.com/4SHX.gif"width="115"/><br/><br/>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{iliekrishna}/count.svg" /></p> 
