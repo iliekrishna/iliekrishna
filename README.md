@@ -16,11 +16,12 @@
   </table>
 </div>
 
-# Linguagens que conheço:
+
 
  <div align="center">
-
+<b><h3>Linguagens que conheço:</h3></b>
   <p align="center">
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width ="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = "65"/>
