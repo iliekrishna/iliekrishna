@@ -15,3 +15,10 @@
     </tr>
   </table>
 </div>
+ <div align="center">
+<br><p align="centre"><b>Contador de comidas de cu de curioso</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{iliekrishna}/count.svg" /></p> 
+<br>
+</div>
+
+</div>
