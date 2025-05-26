@@ -31,8 +31,9 @@
 
                   
 </p>
-<br><p align="center"><b>Contador de Visitantes</b></p>  
-     <img src="https://i.gifer.com/4SHX.gif"width="115"/><br/><br/>  
+<br>
+<h2 align="center"><b>Contador de Visitantes</b></h2>
+<img src="https://i.gifer.com/4SHX.gif" width="115"/><br/><br/>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{iliekrishna}/count.svg" /></p> 
 <br>
 </div>
