@@ -1,7 +1,6 @@
 # Minhas Estatisticas:
 
-<div align="top">
-  
+<div align="center">
   <table>
     <tr>
       <td>
@@ -19,23 +18,17 @@
 
 
  <div align="center">
-<b><h3>Linguagens que conheço:</h3></b>
+<b><h3>Tecnologias que utilizo:</h3></b>
   <p align="center">
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width ="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width ="55" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = "65"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width ="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width ="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width = "65"/>
-          
-
-                  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width= "55" />
+                            
 </p>
-<br>
-<h3 align="center"><b>Contador de Visitantes</b></h3>
-<img src="https://i.gifer.com/4SHX.gif" width="115"/><br/><br/>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{iliekrishna}/count.svg" /></p> 
-<br>
 </div>
 
